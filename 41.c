@@ -13,7 +13,7 @@ int main (){
 		for (l = l; l <= 4 ; ++l)
 		{
 			letter = l;
-			printf("%d",arr["letter"]);
+			printf("%d",arr[letter]);
 
 		}
 		printf("\n");
