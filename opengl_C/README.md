@@ -1,2 +1,2 @@
 ## About
-These are my C openGL learning tutorials.
+These are my C openGL learning projects.
